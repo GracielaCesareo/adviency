@@ -6,7 +6,7 @@ import GiftList from './components/GiftList.vue';
 
 <template>
   <div>
-   <h1>Hello</h1>
+   <h1>Gifts</h1>
    <GiftList></GiftList>
   </div>
   
